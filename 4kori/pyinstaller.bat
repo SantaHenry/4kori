@@ -1,0 +1,1 @@
+pyinstaller.exe -F korikori.spec
